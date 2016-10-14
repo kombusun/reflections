@@ -1,0 +1,6 @@
+==> What happens when you initialize a repository? Why do you need to do it?
+It intializes or creates a new git repository. When you initialize a repository, Git doesn't create any commits for you. You'll have to create the first commit yourself.
+
+==> How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is between the working directory and the repository. It's value is that you can use git reset if you change your mind before doing a commit.
+
