@@ -4,3 +4,13 @@ It intializes or creates a new git repository. When you initialize a repository,
 ==> How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is between the working directory and the repository. It's value is that you can use git reset if you change your mind before doing a commit.
 
+==> How can you use the staging area to make sure you have one commit per 
+logical change?
+You can use git status to see if you have only one logical change before running git commit.
+
+==> What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to keep your master branch for production. It always works. But also want to work on bug fixes or some alternate ways to implement your code or maybe new experiemental features that you don't want to show up in your master branch yet.
+
+==> How do the diagrams help you visualize the branch structure?
+You can see where different commits branch off.
+
