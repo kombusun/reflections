@@ -19,3 +19,8 @@ in the diagram the way we do?
 The changes in the two branches get merged into one branch. It's represented
 in the diagram to show where it split off and where it merged.
 
+==> What are the pros and cons of Git's automatic merging vs. always doing 
+merges manually.
+The benefit of automatic merging is if you forget, it will be done for you. 
+The benefit of doing merging yourself is you have control over what and when to merge.
+
