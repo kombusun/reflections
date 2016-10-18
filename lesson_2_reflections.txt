@@ -25,3 +25,5 @@ The benefit of automatic merging is if you forget, it will be done for you.
 The benefit of doing merging yourself is you have control over what and when to merge.
 
 ==> One last comment.
+
+==> And one more.
