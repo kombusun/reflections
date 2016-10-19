@@ -1,3 +1,6 @@
+INSTRUCTOR NOTES: lesson 2 reflections
+======================================
+
 What happens when you create a repository?  Why do you need to do it?
 
     When I create a repository, Git creates a directory vhere it will keep track
